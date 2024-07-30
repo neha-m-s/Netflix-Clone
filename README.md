@@ -28,10 +28,3 @@ Every Data is Dynamic and Real-Time in nature using API<br>
 Every Movie is playable using Youtube API<br>
 
 Note -> We have not used any kind of Static Data means if you visit this page after 2 years you still see the latest data of that time. Isn't it Awesome😍<br>
-
-### Video Explantion 
-https://www.youtube.com/watch?v=pVeaqN2NemY
-
-# Deplyement Link
-ultimatenetflixclone.netlify.app/
-
